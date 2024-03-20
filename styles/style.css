@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Here is my home page css. I use that to ameliorate my home page */
+.box {
+    margin: 1rem;
+    border: 1px solid rgba(0, 0, 0, .1);
+    padding: 1rem;
+    background-color: #ddd;
+    color: #000;
+}
+aside {
+    width: 20em;
+    text-align: center;
+}
+
+nav {
+    background-color: skyblue;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    display: block;
+    padding: 15px;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    bottom: 1px solid skyblue;
+    padding: 1px;
+}
+
+
+main {
+    max-width: 840px;
+}
+
+
+p {
+    padding: 0;
+}
+
+footer {
+    margin-top: 15px;
+    border-top: 1px solid #000;
+    text-align: center;
+
+}
+
+h1 {
+    color: skyblue;
+}
+
+aside {
+   width: 20rem;
+   margin: 1rem;
+   border: 1px solid rgba(0, 0, 0, 0.2);
+   padding: 1rem;
+   background-color: #eee;
+   color: #333;
+   text-align: center;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+    float: right;
+}
+
+/*This document has been modified on wednesday 20th March 2024*/
